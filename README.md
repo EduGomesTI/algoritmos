@@ -1,8 +1,8 @@
 # algoritmos
 ## Estudo de Algoritmos
 
-### Livro: Aloritmos e Programação - Teoria e Prática
+### Livro: Entendendo Algoritmos
 
-### Marcos Medina / Cristina Fertig
+### Aditya Y. Bhargava
 
 ### Novatec

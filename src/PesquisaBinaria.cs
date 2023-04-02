@@ -1,7 +1,3 @@
-using System;
-using System.Collections;
-using System.Reflection;
-
 namespace algoritmos
 {
   public static class PesquisaBinaria
