@@ -10,9 +10,9 @@
       "request": "launch",
       "preLaunchTask": "build",
       // If you have changed target frameworks, make sure to update the program path.
-      "program": "${workspaceFolder}/Algoritimos/Capitulo_2/bin/Debug/net7.0/Capitulo_2.dll",
+      "program": "${workspaceFolder}/src/bin/Debug/net7.0/algoritmos.dll",
       "args": [],
-      "cwd": "${workspaceFolder}/Algoritimos/Capitulo_2",
+      "cwd": "${workspaceFolder}/src",
       // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
       "console": "internalConsole",
       "stopAtEntry": false

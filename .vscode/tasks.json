@@ -7,7 +7,7 @@
       "type": "process",
       "args": [
         "build",
-        "${workspaceFolder}/Algoritimos/Capitulo_2/Capitulo_2.csproj",
+        "${workspaceFolder}/src/algoritmos.csproj",
         "/property:GenerateFullPaths=true",
         "/consoleloggerparameters:NoSummary"
       ],
@@ -19,7 +19,7 @@
       "type": "process",
       "args": [
         "publish",
-        "${workspaceFolder}/Algoritimos/Capitulo_2/Capitulo_2.csproj",
+        "${workspaceFolder}/src/algoritmos.csproj",
         "/property:GenerateFullPaths=true",
         "/consoleloggerparameters:NoSummary"
       ],
@@ -33,7 +33,7 @@
         "watch",
         "run",
         "--project",
-        "${workspaceFolder}/Algoritimos/Capitulo_2/Capitulo_2.csproj"
+        "${workspaceFolder}/src/algoritmos.csproj"
       ],
       "problemMatcher": "$msCompile"
     }
